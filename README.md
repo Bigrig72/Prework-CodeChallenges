@@ -15,6 +15,7 @@ Selection and Scoring Algorithm
 You can select any number from the list, however your scoring will be depend on the frequency of that number
 in the list. E.g for [2,2,3,5,4] if you pick 2 your score will be 4 (2 * 2) but if you pick 5 your score will be 5 (5 * 1)
 
+https://github.com/Bigrig72/Prework-CodeChallenges/commit/1f957878221905cabc3cd9d9ee18ccd1a92234fa?short_path=a5c6782#diff-a5c678298dd3e9681d979d321699afbc
 
 
 
@@ -27,6 +28,9 @@ The tricky thing here is that a leap year in the Gregorian calendar occurs:
 on every year that is evenly divisible by 4
   except every year that is evenly divisible by 100
     unless the year is also evenly divisible by 400
+    
+    
+    https://github.com/Bigrig72/Prework-CodeChallenges/commit/1f957878221905cabc3cd9d9ee18ccd1a92234fa?short_path=a5c6782#diff-5859fc3f67cb4969ae2264b87f9bef3a
 
 
 
@@ -48,6 +52,8 @@ Yes
 
 Explanation
 1 * 3 * 2 = 6 && 1 + 3 + 2 = 6
+
+https://github.com/Bigrig72/Prework-CodeChallenges/commit/1f957878221905cabc3cd9d9ee18ccd1a92234fa?short_path=a5c6782#diff-318bd80639357979120f92cc5e63232f
 
 
 
@@ -71,3 +77,6 @@ int[,] myArray = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12
 
 Sample Output
 {15,40,65} <-- an integer array
+
+
+https://github.com/Bigrig72/Prework-CodeChallenges/commit/1f957878221905cabc3cd9d9ee18ccd1a92234fa?short_path=a5c6782#diff-5b37a8f33d2cee38e903f11e5f67306c
