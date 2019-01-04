@@ -29,8 +29,7 @@ on every year that is evenly divisible by 4
   except every year that is evenly divisible by 100
     unless the year is also evenly divisible by 400
     
-    
-    https://github.com/Bigrig72/Prework-CodeChallenges/commit/1f957878221905cabc3cd9d9ee18ccd1a92234fa?short_path=a5c6782#diff-5859fc3f67cb4969ae2264b87f9bef3a
+https://github.com/Bigrig72/Prework-CodeChallenges/commit/1f957878221905cabc3cd9d9ee18ccd1a92234fa?short_path=a5c6782#diff-5859fc3f67cb4969ae2264b87f9bef3a
 
 
 
